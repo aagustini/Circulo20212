@@ -2,6 +2,7 @@ public class Ponto {
     private double coordX;
     private double coordY;
 
+    // construtor da classe ponto
     public Ponto(double umX, double umY){
         coordX = umX;
         coordY = umY;
