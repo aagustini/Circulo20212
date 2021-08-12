@@ -2,9 +2,6 @@ public class Circulo {
     //private double centroX;
     //private double centroY;
 
-    // coordenada do centro do circulo
-    // ponto tem um par (x,y)
-    // mais uma alteração
     private Ponto centro;
     private double raio;
 
