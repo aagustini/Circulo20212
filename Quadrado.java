@@ -1,3 +1,4 @@
+// pŕecisa calcular a area e escrever toString
 public class Quadrado {
 
     private Ponto cantoEsquerdo;
