@@ -9,11 +9,11 @@ public class Ponto {
     }
 
     // default - ponto na coordenada (0,0)
-    public Ponto() {
-        coordX = 0;
-        coordY = 0;
+    public Ponto(){
+      this(0,0);
     }
-                  
+
+
     public void mover(double novoX, double novoY) {
         coordX = novoX;
         coordY = novoY;
