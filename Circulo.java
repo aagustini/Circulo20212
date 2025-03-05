@@ -14,7 +14,7 @@ public class Circulo {
     }
 
     public Circulo() {
-        centro = new Ponto(0, 0);
+        centro = new Ponto();
         this.raio = 1;
     }
 
