@@ -13,6 +13,7 @@ public class Circulo {
         this.raio = umRaio;
     }
 
+    // circulo default - coordenada (0,0) e raio 1
     public Circulo() {
         centro = new Ponto();
         this.raio = 1;
