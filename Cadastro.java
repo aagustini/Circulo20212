@@ -1,3 +1,5 @@
+inport java.util.ArrayList;
 public class Cadastro {
-    //ALTERAÇÃO
+    private ArrayList<Circulo> cad;
+    
 }
