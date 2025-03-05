@@ -1,3 +1,5 @@
 public class Cadastro {
-    //ALTERAÇÃO
+   private Circulo[] circulos;
+   private int qtdCirculos;
+
 }
